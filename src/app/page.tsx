@@ -8,13 +8,19 @@ export default function Home() {
         website.
       </h1>
 
-      <Image
-        src="/images/human.png"
-        alt="Donation meme"
-        width={500}
-        height={500}
-        className="mt-10 rounded-lg shadow-lg"
-      />
+      <a
+        href="https://www.linkedin.com/in/aditya-chintala/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Image
+          src="/images/human.png"
+          alt="Donation meme"
+          width={500}
+          height={500}
+          className="mt-10 rounded-lg shadow-lg"
+        />
+      </a>
     </main>
   );
 }
