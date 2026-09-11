@@ -10,7 +10,7 @@ const newsreader = Newsreader({
 
 export const metadata: Metadata = {
   title: "Aditya Chintala",
-  description: "I ran out of AI credits making this website.",
+  description: "I ran out of AI credits",
 };
 
 export default function RootLayout({
