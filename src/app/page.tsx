@@ -4,8 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center px-6">
       <h1 className="max-w-4xl text-center text-3xl leading-tight font-medium">
-        Hello, I am Aditya Chintala and I ran out of AI credits making this
-        website.
+        Hello, I am Aditya Chintala and I ran out of AI credits.
       </h1>
 
       <a
